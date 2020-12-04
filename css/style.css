@@ -19,7 +19,8 @@ p {font-weight: 200; font-size: 20px;}
 .inline-list {list-style: none; margin: 0; padding: 0;}
 .inline-list li {display: inline-block;}
 
+.div {color: #000000;}
+div {color: #000000;}
+
 footer .inline-list li {padding-right: 40px;}
-footer {margin: 0 auto; position: absolute; bottom: 0px; padding: 40px 0; width: 600px;}
-.div {background: #000000;}
-div {background: #000000;}
+footer {margin: 0 auto; position: absolute; bottom: 0px; padding: 40px 0; width: 600px;
