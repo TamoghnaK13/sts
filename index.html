@@ -173,12 +173,28 @@
   <h1><button onclick="typeWriter()">More About Me</button></h1>
 </div>
 <p id="demo"></p>
-
+    <head>
+<style>
+.button {
+  background-color: #2074f5;
+  border: none;
+  color: white;
+  padding: 8px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 19px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+</style>
+</head>
 <script>
 var i = 0;
 var txt = 'I am a self-taught developer who learns by researching, experimenting, and creating. I am relatively new to web development but I know a couple of different languages. I plan to pursue my interest further and my ultimate goal is to become a Full Stack Developer. I am a lot younger than most web developers, I do not have any degrees, I have not been taught by anyone, and I do not have a lot of experience programming but I  do not let that deter me and I always keep trying without giving up,and that has been my main driving force that keeps me going with pursuing my interest in programming.';
 var speed = 55;
-
+  
 function typeWriter() {
   if (i < txt.length) {
     document.getElementById("demo").innerHTML += txt.charAt(i);
