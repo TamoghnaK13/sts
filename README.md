@@ -1,5 +1,5 @@
 # Tamoghna Kommaraju's Portfolio Website
-The official about-me site for Tamoghna Kommaraju. To view the published site, go to [**tamoghnak.tk**](tamoghnak.tk). To view the updated site in realtime, go to [**tamoghnak13.github.io/About-Me**](https://tamoghnak13.github.io/About-Me/).
+The official about-me site for Tamoghna Kommaraju. To view the published site, go to [**tamoghnak.tk**](tamoghnak.tk). To view the updated site in realtime, go to [**https://tamoghnak13.github.io/Developer-Portfolio/**](https://tamoghnak13.github.io/Developer-Portfolio/).
 
 Credits:
 <p><sup>Domain Hosting from Freenom.com</sup></p>
