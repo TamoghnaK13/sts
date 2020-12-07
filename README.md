@@ -1,5 +1,5 @@
 # Tamoghna Kommaraju's Portfolio Website
-The official Developer Portfolio Website for Tamoghna Kommaraju. To view the published site, go to [**tamoghnak.tk**](http://tamoghnak.tk/).
+The official Developer Portfolio Website for Tamoghna Kommaraju. To view the published site, go to [**tamoghnak.tk**](https://www.tamoghnak.tk/).
 
 Credits:
 <p><sup>Domain Hosting from Freenom.com</sup></p>
