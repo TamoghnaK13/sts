@@ -9,3 +9,6 @@ Credits:
 <p><sup>Music from Bensound.com</sup></p>
 <p><sup>Created with GitHub and Replit</sup></p>
 
+<p><sup>Made on a Chromebook</sup></p>
+
+<p><sup>Tested locally with [**Web Server For Chrome**](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb).</sup></p>
