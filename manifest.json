@@ -1,0 +1,16 @@
+{
+  "name": "Tamoghna Kommaraju",
+  "short_name": "TK13Portfolio",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#2A3443",
+  "description": "Tamoghna Kommaraju's Developer Portfolio",
+  "theme_color": "#2A3443",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
