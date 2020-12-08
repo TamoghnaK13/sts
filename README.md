@@ -11,4 +11,4 @@ Credits:
 
 <p><sup>Made on a Chromebook</sup></p>
 
-<p><sup>Tested locally with [**Web Server For Chrome**](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb).</sup></p>
+<p><sup>Tested locally with [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en).</sup></p>
