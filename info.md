@@ -1,7 +1,7 @@
 # Tamoghna Kommaraju's Portfolio Website
 The official Developer Portfolio Website for Tamoghna Kommaraju.
 
-<p>Like this? Then don't forget to support me by starring the website repository [**here**](github.com/TamoghnaK13/DevPortfolio)!</p>
+<p>Like this? Then don't forget to support me by starring the website repository at github.com/TamoghnaK13/DevPortfolio!</p>
 
 Credits:
 <p><sup>Domain Hosting from Freenom.com</sup></p>
