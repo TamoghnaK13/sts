@@ -1,4 +1,4 @@
-# Tamoghna Kommaraju's Portfolio Website
+# Tamoghna Kommaraju's Developer Portfolio
 The official Developer Portfolio Website for Tamoghna Kommaraju.
 
 <p>Like this? Then don't forget to support me by starring the website repository at github.com/TamoghnaK13/DevPortfolio!</p>
