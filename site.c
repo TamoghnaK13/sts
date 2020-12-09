@@ -1,6 +1,8 @@
 Tamoghna Kommaraju's Developer Portfolio
 The official Developer Portfolio Website for Tamoghna Kommaraju.
 
+To direct download this repository, go to www.tamoghnak.tk/site.zip
+
 Like this? Then don't forget to support me by starring the website repository at github.com/TamoghnaK13/DevPortfolio!
 
 Credits:
