@@ -16,7 +16,7 @@
   ],
   "start_url": "https://www.tamoghnak.tk",
   "background_color": "#3367D6",
-  "display": "minimal-ui",
+  "display": "standalone",
   "scope": "https://www.tamoghnak.tk",
   "theme_color": "#3367D6"
 }
