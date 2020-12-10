@@ -8,8 +8,8 @@ For more information about me go to [**www.tamoghnak.tk/aboutme**](https://www.t
 <p>Like this? Then don't forget to support me by starring this repository!</p>
 
 Credits:
-<p><sup>Domain Hosting from Freenom.com</sup></p>
-<p><sup>SSL Certificate from Cloudflare</sup></p>
+<p><sup>Free Domain Hosting from Freenom.com</sup></p>
+<p><sup>Free SSL Certificate from Cloudflare</sup></p>
 <p><sup>Music from Bensound.com</sup></p>
 <p><sup>Created with GitHub and Replit</sup></p>
 <p><sup>Tested locally with Web Server for Chrome</sup></p>
