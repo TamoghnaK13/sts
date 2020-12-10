@@ -1,6 +1,7 @@
-Tamoghna Kommaraju's Developer Portfolio
+Tamoghna Kommaraju's Developer Website and Portfolio
 
-Go to www.tamoghnak.tk for Tamoghna's Portfolio.
+For more information about me go to www.tamoghnak.tk/aboutme.
+
 
 Like this? Then don't forget to support me by starring the website repository at github.com/TamoghnaK13/DevPortfolio!
 
