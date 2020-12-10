@@ -14,5 +14,6 @@ Credits:
 <p><sup>Created with GitHub and Replit</sup></p>
 <p><sup>Tested locally with Web Server for Chrome</sup></p>
 <p><sup>Made on a Chromebook</sup></p>
+<p><sup>Loading Time tested with Google Lighthouse</sup></p>
 
 
