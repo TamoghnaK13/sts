@@ -1,8 +1,8 @@
 # Tamoghna Kommaraju's Portfolio Website
 The official Developer Portfolio Website for Tamoghna Kommaraju. To view the published site, go to [**www.tamoghnak.tk**](https://www.tamoghnak.tk/).
 
-For more information go to [**www.tamoghnak.tk/info**](https://www.tamoghnak.tk/info).
-For more information about me go to [**www.tamoghnak.tk/aboutme**](https://www.tamoghnak.tk/aboutme).
+<p>For more information go to [**www.tamoghnak.tk/info**](https://www.tamoghnak.tk/info).</p>
+<p>For more information about me go to [**www.tamoghnak.tk/aboutme**](https://www.tamoghnak.tk/aboutme).</p>
 
 <p>Like this? Then don't forget to support me by starring this repository!</p>
 
