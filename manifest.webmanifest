@@ -1,6 +1,6 @@
 {
-  "name": "Tamoghna Kommaraju",
-  "short_name": "TamoghnaK13",
+  "name": "TamoghnaK.TK PWA",
+  "short_name": "TK13 PWA",
   "description": "Tamoghna Kommaraju's Official Progressive Web App",
   "icons": [
     {
@@ -16,7 +16,7 @@
   ],
   "start_url": "https://www.tamoghnak.tk",
   "background_color": "#3367D6",
-  "display": "standalone",
+  "display": "minimal-ui",
   "scope": "https://www.tamoghnak.tk",
   "theme_color": "#3367D6"
 }
