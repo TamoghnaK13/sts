@@ -7,6 +7,11 @@ For more information go to [**www.tamoghnak.tk/site.c**](https://www.tamoghnak.t
 
 <p>Like this? Then don't forget to support me by starring this repository!</p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamoghnak13&layout=compact" alt="TamoghnaK13" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamoghnak13&show_icons=true" alt="TamoghnaK13" /></p>
+
 Credits:
 <p><sup>Domain Hosting from Freenom.com</sup></p>
 <p><sup>SSL Certificate from Cloudflare</sup></p>
