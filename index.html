@@ -121,9 +121,17 @@
 
 	</main>
 	  <footer class="copyright">© 2020 
-		  <a href="https://repl.it/@lilykhan" target="_blank"> Lilykhan.</a>
+		  <a href="https://repl.it/@lilykhan" target="_blank"> Tamoghna Kommaraju.</a>
      </footer>
 	  
   </div>
+	      <script>
+  // register ServiceWorker, remember to use absolute path!
+  if (navigator.serviceWorker) {
+    navigator.serviceWorker.register('/{repository}/sw.js', {scope: '/{repository}/'})
+  }
+  
+  // --- Application code here ---
+  </script>
   </body>
 </html>
