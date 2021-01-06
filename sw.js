@@ -8,7 +8,10 @@ self.addEventListener('install', e => {
         `/index.html`,
         `/style11.css`,
         `/script.js`,
-        
+        `/style2.css`,
+        `/style.css`,
+        `/aboutme.html`,
+        `/info.md`,
       ])
           .then(() => self.skipWaiting());
     })
