@@ -6,12 +6,12 @@ self.addEventListener('install', e => {
       return cache.addAll([
         `/`,
         `/index.html`,
-        `/style11.css`,
-        `/script.js`,
-        `/style2.css`,
         `/style.css`,
-        `/aboutme.html`,
-        `/info.md`,
+        `/style2.css`,
+        `/script.js`,
+        `/sw.js`,
+        `/dmca.txt`,
+        `/d.txt`
       ])
           .then(() => self.skipWaiting());
     })
