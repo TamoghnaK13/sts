@@ -82,10 +82,16 @@ body {
 }
 </style>
 <div class="header">
-<a href="https://yoursite.com" alt="ClearStreams" title="ClearStreams" class="navbar-brand" id="header" style="padding-top:1px;font-size:25px;color:#eee;font-style:italic;font-weight:bold;">ClearStreams</a>
+<a href="https://www.clearstreams.tk" alt="ClearStreams" title="ClearStreams" class="navbar-brand" id="header" style="padding-top:1px;font-size:25px;color:#eee;font-style:italic;font-weight:bold;">ClearStreams</a>
 
-    <p>Date/Time: <span id="datetime"></span></p><script>var dt = new Date();
-document.getElementById("datetime").innerHTML=dt.toLocaleString();</script>  
+  <script>
+    n =  new Date();
+y = n.getFullYear();
+m = n.getMonth() + 1;
+d = n.getDate();
+document.getElementById("date").innerHTML = m + "/" + d + "/" + y;
+  </script>
+  <h3 id="date"></h3>
     
     </div>
     
