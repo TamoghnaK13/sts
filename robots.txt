@@ -4,6 +4,11 @@
 User-agent: *
 Disallow:
 
+
+Category: "Science"
+
+ "Category": "Science"
+
 {
  "Category": "Science"
 }
