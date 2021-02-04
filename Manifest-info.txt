@@ -1,1 +1,5 @@
 In the manifest you can do minimal-ui or fullscreen or standalone
+
+Google Analytics link:
+
+https://analytics.google.com/analytics/web/#/p261207746/realtime/overview
