@@ -1,7 +1,7 @@
 {
   "name": "ClearStreams SportStreams",
   "short_name": "ClearStreams",
-  "description": "Want to watch the laterst soprts games?. No problem, ClearStreams is here.",
+  "description": "Want to watch the latest sports games?. No problem, ClearStreams is here.",
   "icons": [
     {
       "src": "icon1.png",
@@ -14,9 +14,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://www.tamoghnak.tk",
+  "start_url": "https://www.clearrstreams.tk",
   "background_color": "#3367D6",
   "display": "fullscreen",
-  "scope": "https://www.tamoghnak.tk",
+  "scope": "https://www.clearstreams.tk",
   "theme_color": "#3367D6"
 }
