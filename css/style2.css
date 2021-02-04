@@ -9,7 +9,7 @@ body, html {height: 100%;}
 .wrapper {box-sizing: border-box; height: 100%; overflow: auto; }
 
 
-
+a {color: #777;}
 a:hover {color: #0068FF}
 p {font-weight: 200; font-size: 20px;}
 
