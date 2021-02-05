@@ -35,4 +35,13 @@
       "icons": [{ "src": "https://www.clearstreams.tk/icon1.png", "sizes": "192x192" }]
     }
   ]
+  "share_target": {
+  "action": "/share-target/",
+  "method": "GET",
+  "params": {
+    "title": "ClearStreams",
+    "text": "Want to watch the latest sports games?. No problem, ClearStreams is here.",
+    "url": "https://www.clearstreams.tk"
+  }
+}
 }
