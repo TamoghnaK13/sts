@@ -447,12 +447,7 @@ body {
    
    <!-- Service Worker Below -->
          
-<script>
-if('serviceWorker' in navigator) {
-  navigator.serviceWorker
-           .register('sw.js')
-           .then(function() { console.log("Service Worker Registered"); });
-}
+
 </script>
       </body>                                                              
 </html>
@@ -495,7 +490,7 @@ setTimeout("window.open(self.location, '_self');", 300000);
   
   
 <script>
-    $("clearstreams").ready( function () {
+    $("document").ready( function () {
         alert("View the page's Disclaimer and DMCA Info pages.\nThe Disclaimer is at https://www.clearstreams.tk/d.txt \nand the DMCA Info is at https://www.clearstreams.tk/dmca.txt");
     }); 
 </script>
