@@ -15,7 +15,8 @@ self.addEventListener('install', e => {
         `/css/style2.css`,
         `/manifest.json`,
         `/favicon.ico`,
-        `/LICENSE.MD`
+        `/LICENSE.MD`,
+        `/discord1.png`
       ])
           .then(() => self.skipWaiting());
     })
