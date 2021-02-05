@@ -446,7 +446,14 @@ body {
            <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "f118b4dbffa44133a1f46968713dfb28"}'></script><!-- End Cloudflare Web Analytics -->                                                                           
    
    <!-- Service Worker Below -->
-
+         
+<script>
+if('serviceWorker' in navigator) {
+  navigator.serviceWorker
+           .register('/sw.js')
+           .then(function() { console.log("Service Worker Registered"); });
+}
+</script>
       </body>                                                              
 </html>
 
