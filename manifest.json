@@ -4,19 +4,35 @@
   "description": "Want to watch the latest sports games?. No problem, ClearStreams is here.",
   "icons": [
     {
-      "src": "icon1.png",
+      "src": "https://www.clearstreams.tk/icon1.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "icon.png",
+      "src": "https://www.clearstreams.tk/icon.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://www.clearrstreams.tk",
+  "start_url": "https://www.clearstreams.tk",
   "background_color": "#3367D6",
   "display": "fullscreen",
-  "scope": "https://www.clearstreams.tk",
-  "theme_color": "#3367D6"
+  "scope": "/",
+  "theme_color": "#3367D6",
+  "shortcuts": [
+    {
+      "name": "DMCA Info",
+      "short_name": "DMCA",
+      "description": "ClearStreams DMCA Info",
+      "url": "https://www.clearstreams.tk/dmca.txt",
+      "icons": [{ "src": "https://www.clearstreams.tk/icon1.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Disclaimer",
+      "short_name": "Disclaimer",
+      "description": "ClearStreams' Disclaimer",
+      "url": "https://www.clearstreams.tk/d.txt",
+      "icons": [{ "src": "https://www.clearstreams.tk/icon1.png", "sizes": "192x192" }]
+    }
+  ]
 }
