@@ -1,6 +1,6 @@
 
 const version = "0.6.18";
-const cacheName = `clearstreams-${version}`;
+const cacheName = `airhorner-${version}`;
 self.addEventListener('install', e => {
   e.waitUntil(
     caches.open(cacheName).then(cache => {
@@ -8,15 +8,7 @@ self.addEventListener('install', e => {
         `/`,
         `/index.html`,
         `/dmca.txt`
-       `/d.txt`,
-        `/404.html`,
-        `/script.js`,
-        `/sw.js`,
-        `/css/style.css`,
-        `/css/style2.css`,
-        `/manifest.json`,
-        `/favicon.ico`,
-        `/discord1.png`
+       `/d.txt`
       ])
           .then(() => self.skipWaiting());
     })
