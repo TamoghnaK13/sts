@@ -67,6 +67,9 @@ m = n.getMonth() + 1;
 d = n.getDate();
 document.getElementById("date").innerHTML = m + "/" + d + "/" + y;
   </script>
+    <script>
+      document.addEventListener('contextmenu', event => event.preventDefault());
+    </script>
     <style>
  /* Style the body */
 body {
