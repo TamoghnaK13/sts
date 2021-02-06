@@ -11,7 +11,7 @@ body, html {height: 100%;}
 
 a {color: #FFFFFF;}
 a:hover {color: #0068FF}
-p { color: white; font-weight: 200; font-size: 20px;}
+p {color: white; font-weight: 200; font-size: 20px;}
 
 .name {font-family: Montserrat; font-size: 40px; text-transform: uppercase; font-weight: 900; padding: 10px; border: 4px solid #0068FF; color: #0068FF; display: inline-block; position: center; margin-bottom: 60px; top: 60px; left: 90px; right: 90px;}
 
