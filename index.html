@@ -111,6 +111,7 @@ if (document.addEventListener) {
     window.event.returnValue = false;
   });
 }
+      
 document.onkeydown = function(e) {
 if(event.keyCode == 123) {
 return false;
@@ -209,11 +210,9 @@ closeButton.addEventListener('click', () => {
   installEvent = null;
 });
       </script>  
-    
-    <div class="prompt">
+      <div class="prompt">
   <p>Do you want to add this site to your home screen?</p>
-  <button type="button" class="prompt__install">Yes Please</button>
-  <button type="button" class="prompt__close">No Thanks</button>
+  <button type="button" class="prompt__install">Install ClearStreams PWA</button>
 </div>
     
     
