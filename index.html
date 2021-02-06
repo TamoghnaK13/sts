@@ -73,44 +73,12 @@ document.getElementById("date").innerHTML = m + "/" + d + "/" + y;
     </script>
     
     
-    
-    
-    
-    
-    
-    
+
     
     
     <body oncontextmenu="return false">
     
     <script>
-      
-      
-      
-      document.addEventListener('keydown', function() {
-  if (event.keyCode == 123) {
-    alert("This function has been disabled to prevent you from taking this site's code!");
-    return false;
-  } else if (event.ctrlKey && event.shiftKey && event.keyCode == 73) {
-    alert("This function has been disabled to prevent you from taking this site's code!");
-    return false;
-  } else if (event.ctrlKey && event.keyCode == 85) {
-    alert("This function has been disabled to prevent you from taking this site's code!");
-    return false;
-  }
-}, false);
-
-if (document.addEventListener) {
-  document.addEventListener('contextmenu', function(e) {
-    alert("This function has been disabled to prevent you from taking this site's code!");
-    e.preventDefault();
-  }, false);
-} else {
-  document.attachEvent('oncontextmenu', function() {
-    alert("This function has been disabled to prevent you from taking this site's code!");
-    window.event.returnValue = false;
-  });
-}
       
 document.onkeydown = function(e) {
 if(event.keyCode == 123) {
@@ -148,8 +116,6 @@ return false;
 (function(){
   debugger
 }())
-
-     
     </script>
       <script>
 const prompt = document.querySelector('.prompt');
