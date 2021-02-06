@@ -151,9 +151,6 @@ return false;
 
      
     </script>
-
-      
-    <script>
 const prompt = document.querySelector('.prompt');
 const installButton = prompt.querySelector('.prompt__install');
 const closeButton = prompt.querySelector('.prompt__close');
@@ -208,13 +205,20 @@ closeButton.addEventListener('click', () => {
   prompt.style.display = 'none';  
 
   installEvent = null;
-});
+});      
+    <script>
+
       </script>  
- <div class="prompt">
-  <button type="button" class="prompt__install">Install ClearStreams PWA</button>
-  <button type="button" class="prompt__close">Don't Install</button>
+      <div class="prompt">
+  <p>Do you want to add this site to your home screen?</p>
+  <button type="button" class="prompt__install">Yes Please</button>
+  <button type="button" class="prompt__close">No Thanks</button>
 </div>
-    
+    <style>
+      .prompt {
+  display: none;
+}
+      </style>
     
     
     
