@@ -151,6 +151,7 @@ return false;
 
      
     </script>
+      <script>
 const prompt = document.querySelector('.prompt');
 const installButton = prompt.querySelector('.prompt__install');
 const closeButton = prompt.querySelector('.prompt__close');
@@ -205,10 +206,8 @@ closeButton.addEventListener('click', () => {
   prompt.style.display = 'none';  
 
   installEvent = null;
-});      
-    <script>
-
-      </script>  
+}); 
+   </script>  
       <div class="prompt">
   <p>Do you want to add this site to your home screen?</p>
   <button type="button" class="prompt__install">Yes Please</button>
