@@ -192,7 +192,7 @@ closeButton.addEventListener('click', () => {
   // set localStorage to true
   setVisited();
 
-  // hide the prompt banner
+  // keep the prompt banner
   prompt.style.display = 'block';  
 
   installEvent = true;
@@ -207,6 +207,11 @@ closeButton.addEventListener('click', () => {
       </div>
 <style>
       .prompt {
+  display: none;
+}
+      </style>
+      <style>
+      .prompt__close {
   display: none;
 }
       </style>
